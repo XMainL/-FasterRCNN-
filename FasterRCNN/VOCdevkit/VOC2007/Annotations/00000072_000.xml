@@ -1,0 +1,22 @@
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>00000072_000.jpg</filename>
+<source>
+<database> orgaquant </database>
+<annotation> organoid </annotation>
+</source>
+    <size>
+        <width>600</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <object>
+<name>Atelectasis</name>
+        <bndbox>
+            <xmin>356.5037037</xmin>
+            <ymin>567.805291</ymin>
+            <xmax>484.368254</xmax>
+            <ymax>650.1587302</ymax>
+        </bndbox>
+    </object>
+</annotation>

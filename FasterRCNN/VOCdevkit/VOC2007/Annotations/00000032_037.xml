@@ -1,0 +1,22 @@
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>00000032_037.jpg</filename>
+<source>
+<database> orgaquant </database>
+<annotation> organoid </annotation>
+</source>
+    <size>
+        <width>600</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <object>
+<name>Infiltrate</name>
+        <bndbox>
+            <xmin>339.1661376</xmin>
+            <ymin>119.1957672</ymin>
+            <xmax>511.4582011</xmax>
+            <ymax>470.2814815</ymax>
+        </bndbox>
+    </object>
+</annotation>
