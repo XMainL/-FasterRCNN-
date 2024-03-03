@@ -1,0 +1,712 @@
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00000032_037.jpg 339,119,511,470,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00000072_000.jpg 356,567,484,650,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00000147_001.jpg 617,599,718,779,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00000149_006.jpg 603,460,853,550,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00000150_002.jpg 601,595,817,776,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00000181_061.jpg 209,568,423,823,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00000193_019.jpg 703,616,922,866,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00000211_019.jpg 340,422,841,829,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00000211_041.jpg 224,416,736,847,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00000344_003.jpg 172,230,270,452,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00000377_004.jpg 387,419,890,787,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00000398_003.jpg 369,389,853,765,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00000457_004.jpg 802,281,896,386,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00000468_017.jpg 149,518,261,564,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00000468_033.jpg 204,502,320,555,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00000468_041.jpg 266,454,379,526,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00000506_013.jpg 566,230,826,812,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00000583_008.jpg 293,454,503,514,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00000643_002.jpg 818,539,914,614,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00000661_000.jpg 298,437,847,865,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00000732_005.jpg 427,464,840,808,2 613,110,786,214,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00000740_000.jpg 301,384,778,771,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00000744_006.jpg 146,509,289,628,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00000756_001.jpg 289,325,890,755,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00000808_002.jpg 558,384,785,551,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00000830_000.jpg 575,489,856,605,0 309,398,406,519,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00000845_000.jpg 370,367,824,792,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00000865_006.jpg 839,624,917,664,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00000902_001.jpg 351,634,439,719,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00001039_005.jpg 588,275,798,554,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00001075_024.jpg 290,326,444,524,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00001153_004.jpg 307,253,404,693,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00001248_038.jpg 567,94,821,262,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00001369_000.jpg 336,276,890,663,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00001373_009.jpg 412,468,961,969,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00001373_039.jpg 260,500,823,991,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00001437_012.jpg 83,138,436,755,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00001534_005.jpg 396,342,887,723,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00001555_002.jpg 614,808,689,884,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00001558_016.jpg 85,419,313,835,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00001673_016.jpg 281,548,332,649,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00001688_000.jpg 667,276,789,426,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00001836_041.jpg 626,385,658,411,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00001900_026.jpg 578,444,812,735,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00001933_000.jpg 554,578,730,772,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00001946_029.jpg 289,396,362,551,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00002059_008.jpg 374,465,929,830,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00002106_000.jpg 325,363,376,415,6 637,428,767,582,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00002176_007.jpg 258,188,366,304,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00002224_007.jpg 216,334,395,630,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00002290_001.jpg 260,717,323,765,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00002350_001.jpg 726,481,874,569,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00002395_007.jpg 231,448,306,606,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00002435_005.jpg 362,480,764,778,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00002578_000.jpg 796,327,874,386,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00002583_014.jpg 608,397,927,805,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00002704_029.jpg 333,331,780,699,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00002711_000.jpg 187,376,461,750,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00003064_035.jpg 538,558,818,816,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00003072_028.jpg 24,339,309,788,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00003148_004.jpg 596,505,652,685,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00003149_007.jpg 542,374,778,677,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00003333_002.jpg 517,301,846,651,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00003391_001.jpg 310,242,532,603,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00003394_006.jpg 312,375,754,679,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00003400_003.jpg 608,57,849,285,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00003440_000.jpg 217,254,341,334,0 591,457,706,571,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00003803_010.jpg 171,590,810,723,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00003894_005.jpg 581,167,872,606,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00003945_004.jpg 68,471,374,639,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00004342_002.jpg 200,487,678,966,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00004342_020.jpg 316,386,791,818,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00004342_023.jpg 342,435,797,813,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00004342_050.jpg 185,360,321,783,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00004344_002.jpg 254,299,425,691,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00004344_013.jpg 350,346,875,769,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00004344_014.jpg 329,312,796,762,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00004344_018.jpg 391,393,896,823,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00004344_022.jpg 376,508,841,883,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00004344_046.jpg 368,332,848,706,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00004381_021.jpg 389,360,842,687,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00004461_000.jpg 329,393,741,740,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00004533_014.jpg 450,306,899,698,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00004534_001.jpg 256,428,807,844,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00004547_003.jpg 899,690,952,748,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00004808_090.jpg 135,237,424,600,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00004893_070.jpg 200,532,360,685,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00004893_085.jpg 385,343,849,732,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00004911_018.jpg 695,319,796,408,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00004968_003.jpg 640,684,907,791,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00004968_004.jpg 634,637,898,761,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00005066_005.jpg 331,487,839,836,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00005066_030.jpg 277,459,817,760,2 149,728,176,794,1 531,499,774,663,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00005089_002.jpg 648,574,911,762,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00005089_014.jpg 179,476,318,548,0 644,187,873,783,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00005089_040.jpg 618,98,869,778,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00005140_001.jpg 125,262,265,708,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00005353_000.jpg 113,200,341,581,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00005532_000.jpg 382,262,858,676,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00005532_014.jpg 338,330,799,677,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00005532_016.jpg 325,417,739,757,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00005532_019.jpg 683,235,754,293,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00005532_022.jpg 548,201,723,391,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00005567_000.jpg 566,577,810,830,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00005827_000.jpg 393,307,845,779,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00005869_001.jpg 175,292,354,572,4 180,66,426,147,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00006096_010.jpg 127,576,432,716,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00006304_060.jpg 698,334,872,589,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00006621_004.jpg 307,401,522,616,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00006736_000.jpg 770,472,815,519,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00006751_000.jpg 175,445,250,511,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00006821_002.jpg 121,85,502,760,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00006836_002.jpg 298,439,786,620,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00006851_033.jpg 189,625,388,678,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00006851_034.jpg 251,616,410,739,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00006948_002.jpg 733,701,860,793,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00007043_000.jpg 291,360,821,799,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00007120_009.jpg 249,549,385,636,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00007124_006.jpg 580,363,898,722,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00007124_008.jpg 544,488,852,675,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00007444_003.jpg 626,418,856,659,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00007471_003.jpg 540,106,874,589,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00007551_020.jpg 352,523,810,872,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00007557_026.jpg 131,706,353,830,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00007629_001.jpg 631,465,806,644,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00007676_002.jpg 360,439,443,576,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00007710_000.jpg 624,439,840,526,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00007728_013.jpg 129,449,362,760,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00007830_013.jpg 197,264,406,794,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00008005_004.jpg 636,590,724,765,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00008008_027.jpg 646,488,742,591,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00008291_011.jpg 184,216,899,808,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00008365_000.jpg 337,509,755,913,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00008386_000.jpg 711,357,770,405,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00008399_007.jpg 363,379,910,750,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00008522_032.jpg 315,208,749,602,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00008547_001.jpg 806,681,949,822,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00008554_009.jpg 606,495,836,662,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00008716_000.jpg 707,709,859,813,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00008727_009.jpg 205,694,443,910,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00008814_010.jpg 195,412,860,518,1 205,392,849,479,3 195,407,864,472,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00008841_025.jpg 155,486,420,587,1 584,81,776,167,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00008841_044.jpg 147,47,471,213,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00009107_006.jpg 175,305,413,710,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00009166_004.jpg 156,243,239,546,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00009218_015.jpg 193,218,415,811,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00009229_003.jpg 204,556,403,709,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00009229_007.jpg 723,547,792,620,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00009256_005.jpg 305,393,417,508,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00009342_000.jpg 858,428,1012,681,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00009507_004.jpg 212,617,472,786,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00009608_024.jpg 394,402,759,744,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00009608_037.jpg 480,425,700,795,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00009619_000.jpg 300,658,408,771,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00009683_005.jpg 32,359,306,660,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00009705_000.jpg 338,308,880,679,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00009745_000.jpg 329,399,785,782,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00009779_001.jpg 711,494,874,563,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00009863_058.jpg 314,372,496,634,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00009889_018.jpg 124,759,158,799,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00010007_168.jpg 333,721,388,841,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00010092_018.jpg 611,480,718,697,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00010103_014.jpg 343,412,384,458,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00010120_010.jpg 225,370,911,770,3 206,399,898,858,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00010125_004.jpg 147,301,213,389,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00010172_001.jpg 188,695,236,746,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00010230_001.jpg 677,663,845,804,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00010277_000.jpg 863,693,935,805,1 633,416,905,638,3 297,310,837,588,6 642,423,907,646,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00010447_018.jpg 160,551,393,780,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00010478_012.jpg 212,587,459,788,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00010575_002.jpg 232,604,467,762,0 695,591,943,766,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00010610_003.jpg 200,439,385,730,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00010652_000.jpg 204,562,417,667,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00010767_007.jpg 264,12,348,34,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00010767_008.jpg 203,191,368,333,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00010767_016.jpg 117,177,429,769,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00010770_000.jpg 244,371,450,439,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00010815_006.jpg 311,241,457,497,6 311,240,465,484,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00010936_011.jpg 270,580,375,779,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00010936_016.jpg 174,165,406,302,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00011023_004.jpg 301,415,497,663,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00011124_000.jpg 241,482,356,608,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00011136_002.jpg 574,574,803,741,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00011151_004.jpg 331,207,707,572,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00011157_001.jpg 201,491,327,612,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00011237_006.jpg 204,405,409,744,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00011237_094.jpg 128,229,289,739,1 587,279,741,591,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00011263_004.jpg 312,392,867,875,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00011269_019.jpg 733,418,951,607,1 572,266,703,409,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00011291_003.jpg 693,146,882,350,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00011322_002.jpg 346,356,853,841,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00011322_006.jpg 365,485,846,799,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00011366_002.jpg 296,389,960,1022,3 270,421,985,1022,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00011402_007.jpg 204,481,698,824,2 453,591,720,792,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00011450_000.jpg 734,495,832,591,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00011463_002.jpg 379,545,821,888,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00011502_001.jpg 442,317,808,699,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00011576_000.jpg 206,582,253,624,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00011814_031.jpg 169,454,356,754,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00011827_003.jpg 568,471,875,594,0 752,148,880,732,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00011831_008.jpg 238,341,382,574,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00011831_010.jpg 235,82,475,254,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00011832_002.jpg 744,351,814,424,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00011857_001.jpg 715,537,924,619,0 695,512,963,678,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00011925_072.jpg 272,404,459,768,3 377,254,538,659,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00011925_076.jpg 123,106,419,481,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00011925_077.jpg 280,196,581,667,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00012021_054.jpg 584,303,808,771,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00012021_081.jpg 655,442,848,640,3 660,190,852,642,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00012045_005.jpg 591,388,835,660,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00012045_009.jpg 716,561,817,678,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00012048_007.jpg 287,380,434,532,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00012094_011.jpg 213,255,415,632,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00012094_047.jpg 666,143,800,295,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00012141_013.jpg 579,209,822,588,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00012174_000.jpg 169,159,357,698,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00012175_008.jpg 341,473,478,610,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00012261_001.jpg 453,433,986,853,2 628,512,869,728,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00012270_005.jpg 743,235,856,346,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00012288_000.jpg 355,459,801,725,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00012291_008.jpg 232,631,459,706,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00012299_002.jpg 195,575,854,655,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00012364_045.jpg 582,449,798,806,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00012374_000.jpg 655,256,737,336,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00012376_010.jpg 233,392,461,648,3 741,210,866,634,6 374,143,494,199,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00012415_002.jpg 398,534,473,620,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00012515_002.jpg 289,638,372,694,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00012576_004.jpg 195,465,465,744,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00012592_005.jpg 771,527,858,593,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00012622_016.jpg 763,167,845,294,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00012636_000.jpg 775,532,895,601,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00012637_000.jpg 728,499,860,582,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00012670_000.jpg 427,420,857,737,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00012829_004.jpg 169,539,336,632,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00012834_008.jpg 111,412,309,485,0 5,359,279,781,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00012834_034.jpg 769,226,975,584,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00012834_113.jpg 568,260,835,683,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00012834_122.jpg 76,95,335,968,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00012975_003.jpg 206,237,413,439,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013031_005.jpg 19,418,179,812,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013062_002.jpg 352,340,750,736,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013118_008.jpg 225,547,311,626,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013125_000.jpg 169,406,831,824,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013187_002.jpg 198,567,937,743,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013209_018.jpg 190,123,476,357,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013249_031.jpg 383,478,786,736,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013249_033.jpg 415,403,882,747,2 363,418,508,697,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013249_052.jpg 334,382,857,673,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013272_005.jpg 611,532,831,839,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013285_026.jpg 178,499,217,766,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013310_057.jpg 116,310,836,916,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013310_059.jpg 193,209,380,776,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013337_000.jpg 61,314,339,762,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013346_015.jpg 373,422,833,944,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013391_005.jpg 90,365,394,684,3 101,314,409,678,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013461_011.jpg 157,125,868,946,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013471_002.jpg 129,693,399,792,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013471_029.jpg 620,294,848,662,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013508_001.jpg 323,592,501,683,0 286,516,376,610,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013625_069.jpg 125,203,855,826,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013635_002.jpg 363,330,825,700,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013659_019.jpg 559,167,661,304,6 550,463,721,738,4 291,84,398,134,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013670_151.jpg 437,479,899,813,2 262,266,941,746,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013673_001.jpg 150,435,231,506,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013685_000.jpg 258,436,370,486,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013685_028.jpg 264,492,784,637,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013721_005.jpg 271,426,489,590,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013750_016.jpg 197,182,390,457,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013751_003.jpg 676,610,766,700,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013807_009.jpg 315,122,437,165,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013885_000.jpg 436,273,480,317,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013911_000.jpg 118,483,203,585,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013911_021.jpg 99,243,798,781,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013922_021.jpg 580,107,837,409,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013922_022.jpg 559,378,793,621,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013951_001.jpg 301,266,364,316,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013977_005.jpg 781,784,905,965,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013991_000.jpg 381,370,487,465,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013992_005.jpg 232,475,404,761,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013992_006.jpg 280,527,409,607,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013993_013.jpg 589,422,773,657,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013993_077.jpg 167,407,369,630,1 208,403,781,795,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00013993_083.jpg 137,217,392,914,1 595,353,848,679,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00014004_038.jpg 344,397,455,535,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00014014_013.jpg 649,383,819,553,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00014015_003.jpg 105,408,380,587,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00014022_054.jpg 617,729,795,982,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00014083_023.jpg 640,610,917,743,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00014095_003.jpg 296,497,469,591,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00014116_009.jpg 696,319,750,377,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00014149_018.jpg 659,437,825,704,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00014177_009.jpg 697,241,940,697,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00014177_010.jpg 189,389,316,620,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00014197_010.jpg 620,660,953,856,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00014198_000.jpg 676,512,775,705,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00014203_018.jpg 554,245,732,452,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00014223_009.jpg 225,387,708,675,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00014251_029.jpg 131,214,883,763,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00014253_010.jpg 36,247,282,330,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00014253_042.jpg 213,514,824,826,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00014280_000.jpg 819,345,871,403,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00014294_011.jpg 700,527,878,690,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00014346_010.jpg 153,145,439,759,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00014398_031.jpg 189,463,378,791,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00014551_010.jpg 587,410,744,590,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00014607_007.jpg 201,660,843,874,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00014617_003.jpg 407,483,591,657,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00014626_035.jpg 150,171,366,956,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00014706_007.jpg 402,356,775,702,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00014706_018.jpg 370,447,794,737,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00014716_007.jpg 686,131,871,445,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00014731_028.jpg 773,265,886,406,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00014778_000.jpg 237,332,289,381,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00014795_002.jpg 289,541,437,675,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00014822_039.jpg 644,205,839,828,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00014839_017.jpg 612,352,817,646,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00014956_010.jpg 599,189,959,777,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00014976_003.jpg 607,681,849,761,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00015018_004.jpg 805,360,860,418,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00015064_001.jpg 379,449,982,966,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00015069_001.jpg 171,186,857,718,3 201,227,851,736,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00015078_013.jpg 62,566,963,800,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00015141_002.jpg 796,603,847,669,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00015300_000.jpg 171,395,318,542,0 215,475,292,528,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00015304_001.jpg 290,334,906,828,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00015400_001.jpg 299,351,778,760,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00015425_012.jpg 385,288,831,644,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00015440_000.jpg 636,305,788,373,0 175,293,483,808,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00015530_147.jpg 187,66,390,680,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00015563_011.jpg 320,484,821,935,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00015583_000.jpg 678,340,726,376,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00015605_051.jpg 211,538,358,701,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00015649_000.jpg 641,299,726,373,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00015719_005.jpg 352,379,852,923,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00015732_020.jpg 664,419,862,607,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00015770_010.jpg 363,470,815,741,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00015792_005.jpg 267,293,346,371,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00015794_000.jpg 68,649,117,693,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00015799_012.jpg 360,462,884,861,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00015831_008.jpg 621,542,740,706,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00015831_011.jpg 573,579,831,857,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00015895_017.jpg 719,355,876,877,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00016009_008.jpg 572,576,727,825,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00016064_010.jpg 227,450,474,658,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00016094_007.jpg 178,473,300,607,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00016184_040.jpg 698,539,742,590,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00016191_004.jpg 245,551,448,716,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00016191_017.jpg 683,592,883,756,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00016267_000.jpg 178,599,410,816,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00016291_002.jpg 617,676,943,754,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00016291_012.jpg 146,575,348,810,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00016291_019.jpg 152,75,428,438,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00016291_020.jpg 533,619,773,886,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00016403_003.jpg 892,876,1002,943,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00016417_008.jpg 785,253,967,873,1 197,668,451,845,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00016429_015.jpg 147,93,527,662,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00016487_002.jpg 640,692,728,771,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00016490_011.jpg 183,523,351,587,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00016522_023.jpg 136,250,473,895,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00016564_000.jpg 384,391,836,696,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00016568_010.jpg 690,400,798,524,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00016568_026.jpg 99,91,354,680,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00016624_000.jpg 552,347,921,678,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00016705_006.jpg 691,308,786,546,3 696,317,787,553,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00016732_027.jpg 617,477,836,671,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00016732_040.jpg 208,691,366,878,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00016786_009.jpg 494,475,740,741,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00016837_002.jpg 140,704,398,767,1 140,658,412,753,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00016937_014.jpg 172,83,437,290,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00016964_011.jpg 729,553,822,612,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00016972_019.jpg 514,634,813,863,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00016972_025.jpg 689,524,809,720,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00016987_019.jpg 264,607,371,684,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00016987_022.jpg 83,489,381,611,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00017028_000.jpg 145,579,222,638,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00017098_003.jpg 300,284,358,361,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00017124_004.jpg 792,569,956,1010,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00017137_016.jpg 170,147,457,622,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00017138_037.jpg 118,286,308,768,1 193,426,415,862,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00017151_003.jpg 624,488,837,687,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00017178_007.jpg 345,300,791,678,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00017188_002.jpg 199,480,428,571,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00017199_005.jpg 773,682,844,757,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00017214_015.jpg 613,349,693,492,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00017236_075.jpg 40,435,348,801,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00017243_010.jpg 76,602,165,685,7 21,291,146,856,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00017255_001.jpg 692,598,814,686,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00017257_001.jpg 426,225,744,575,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00017403_006.jpg 594,576,786,880,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00017448_000.jpg 355,483,833,875,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00017500_002.jpg 765,614,871,676,0 111,497,309,769,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00017511_006.jpg 338,423,736,757,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00017514_008.jpg 346,445,883,781,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00017582_003.jpg 256,403,456,546,0 107,342,222,652,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00017611_002.jpg 258,449,421,598,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00017670_005.jpg 368,590,488,739,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00017710_009.jpg 120,147,373,743,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00017714_006.jpg 812,508,936,836,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00017714_009.jpg 692,582,854,748,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00017747_008.jpg 229,174,430,332,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00017877_001.jpg 660,569,860,647,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00017893_005.jpg 386,365,878,772,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00017972_026.jpg 663,247,754,452,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00017981_014.jpg 254,312,449,451,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00018032_000.jpg 250,348,395,459,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00018055_005.jpg 134,132,476,602,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00018055_038.jpg 125,287,214,498,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00018055_045.jpg 89,309,134,408,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00018063_000.jpg 282,387,468,561,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00018101_012.jpg 172,184,431,508,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00018102_001.jpg 107,588,146,642,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00018187_029.jpg 342,421,854,882,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00018187_034.jpg 481,396,909,737,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00018233_057.jpg 347,385,758,733,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00018253_017.jpg 548,528,711,734,0 135,263,282,795,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00018253_054.jpg 182,309,429,814,1 260,465,459,655,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00018253_059.jpg 179,382,381,678,1 182,392,385,702,3 185,405,388,693,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00018319_001.jpg 183,223,823,565,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00018360_035.jpg 717,523,938,814,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00018366_010.jpg 713,293,847,492,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00018387_030.jpg 388,358,884,653,2 158,441,927,602,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00018412_001.jpg 213,616,785,707,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00018419_001.jpg 746,642,862,694,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00018427_004.jpg 94,631,271,704,0 770,351,954,899,1 532,328,639,429,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00018427_011.jpg 595,686,899,787,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00018496_007.jpg 572,125,795,219,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00018623_001.jpg 277,498,889,756,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00018686_000.jpg 353,307,850,760,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00018693_004.jpg 300,435,848,835,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00018762_001.jpg 683,662,765,739,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00018762_002.jpg 603,616,860,698,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00018814_000.jpg 688,514,788,607,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00018865_008.jpg 209,133,354,225,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00018921_038.jpg 303,282,564,632,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00018980_002.jpg 247,174,426,395,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00019018_007.jpg 366,520,809,788,2 186,298,797,764,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00019058_004.jpg 350,458,442,599,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00019124_006.jpg 527,63,873,359,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00019124_045.jpg 332,520,458,589,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00019124_090.jpg 656,494,752,569,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00019154_002.jpg 293,125,424,342,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00019157_008.jpg 591,264,878,747,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00019177_000.jpg 282,257,381,368,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00019187_000.jpg 396,383,861,768,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00019271_030.jpg 234,696,389,809,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00019271_064.jpg 265,509,858,776,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00019271_065.jpg 211,499,353,610,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00019313_000.jpg 749,615,847,722,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00019363_043.jpg 476,490,717,724,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00019373_036.jpg 667,406,839,519,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00019373_058.jpg 325,330,448,487,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00019426_000.jpg 448,441,844,713,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00019495_004.jpg 738,565,887,605,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00019499_000.jpg 723,312,835,409,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00019625_002.jpg 190,312,847,721,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00019634_004.jpg 697,624,913,883,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00019646_006.jpg 592,584,850,799,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00019706_002.jpg 576,89,729,209,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00019706_014.jpg 663,435,834,576,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00019750_012.jpg 140,151,853,587,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00019750_029.jpg 673,377,872,610,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00019765_010.jpg 195,787,406,919,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00019767_016.jpg 128,637,446,723,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00019769_014.jpg 623,402,792,595,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00019861_010.jpg 269,357,804,754,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00019863_010.jpg 166,503,408,694,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00019892_003.jpg 570,119,825,218,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00019917_004.jpg 613,777,861,824,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00020000_000.jpg 543,584,765,872,1 270,132,358,160,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00020065_008.jpg 818,316,906,457,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00020113_017.jpg 217,515,897,682,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00020113_030.jpg 262,395,396,523,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00020184_013.jpg 154,494,386,742,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00020213_078.jpg 184,670,423,770,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00020259_002.jpg 611,535,860,734,3 614,558,837,756,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00020274_007.jpg 787,469,857,615,1 299,383,398,492,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00020274_021.jpg 159,437,260,506,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00020277_001.jpg 693,428,896,821,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00020318_007.jpg 715,543,935,659,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00020332_000.jpg 229,623,304,687,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00020349_006.jpg 462,311,742,606,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00020393_001.jpg 237,227,313,297,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00020393_003.jpg 681,541,902,638,0 682,502,935,687,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00020405_041.jpg 110,286,309,665,1 589,403,849,788,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00020408_037.jpg 190,632,418,793,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00020408_058.jpg 161,72,449,465,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00020482_032.jpg 430,424,712,686,1 469,420,698,680,3 482,352,692,714,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00020671_010.jpg 219,391,412,606,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00020673_005.jpg 562,326,821,497,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00020751_003.jpg 746,154,995,812,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00020774_000.jpg 229,477,290,540,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00020810_003.jpg 159,715,418,828,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00020845_002.jpg 173,532,392,714,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00020857_008.jpg 190,571,753,774,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00020986_000.jpg 418,381,859,673,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00021007_000.jpg 344,468,449,570,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00021009_001.jpg 318,364,778,674,2 154,66,784,619,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00021024_022.jpg 719,522,882,713,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00021201_010.jpg 684,147,899,580,3 715,191,870,508,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00021303_005.jpg 223,551,439,789,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00021321_002.jpg 190,44,394,316,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00021364_001.jpg 335,450,831,756,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00021374_000.jpg 746,377,867,482,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00021377_016.jpg 723,672,898,774,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00021381_013.jpg 563,579,845,668,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00021409_001.jpg 312,344,805,731,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00021420_014.jpg 787,271,858,348,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00021420_020.jpg 166,690,258,781,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00021420_027.jpg 192,565,299,652,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00021443_000.jpg 286,372,831,787,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00021458_000.jpg 635,494,818,655,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00021489_013.jpg 526,386,779,613,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00021670_004.jpg 607,529,847,690,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00021700_010.jpg 587,83,788,249,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00021703_001.jpg 563,511,771,667,1 113,659,271,714,3 136,500,753,713,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00021710_003.jpg 598,633,805,815,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00021711_014.jpg 550,668,902,791,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00021748_000.jpg 550,74,717,128,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00021772_011.jpg 98,150,845,731,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00021772_016.jpg 171,192,262,275,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00021796_000.jpg 187,410,363,590,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00021818_026.jpg 600,297,864,595,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00021845_001.jpg 307,373,695,737,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00021860_002.jpg 100,524,243,734,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00021860_003.jpg 136,568,367,744,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00021926_007.jpg 323,273,475,463,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00021967_000.jpg 182,92,547,678,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00021972_001.jpg 143,510,437,631,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00022021_002.jpg 267,493,422,586,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00022084_000.jpg 209,347,973,816,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00022141_030.jpg 543,41,646,100,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00022155_008.jpg 685,277,841,354,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00022178_000.jpg 232,659,381,813,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00022215_011.jpg 394,478,885,835,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00022215_012.jpg 323,353,836,770,2 628,358,815,591,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00022237_002.jpg 269,472,396,574,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00022290_015.jpg 203,209,447,743,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00022369_013.jpg 167,398,341,586,1 209,389,794,577,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00022416_004.jpg 818,469,962,669,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00022416_018.jpg 357,423,925,776,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00022416_048.jpg 102,222,848,587,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00022416_049.jpg 788,426,872,556,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00022572_005.jpg 144,189,374,668,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00022572_063.jpg 70,517,353,837,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00022572_087.jpg 21,245,234,706,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00022611_001.jpg 749,169,918,544,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00022706_001.jpg 347,315,797,703,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00022707_003.jpg 754,568,926,641,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00022726_002.jpg 688,400,815,521,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00022727_000.jpg 206,198,889,618,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00022837_005.jpg 748,353,845,471,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00022899_014.jpg 87,619,325,1008,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00022961_008.jpg 564,505,778,649,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00022977_000.jpg 241,642,307,706,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00023026_008.jpg 182,563,886,964,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00023068_003.jpg 351,747,386,781,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00023075_033.jpg 239,535,312,601,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00023078_000.jpg 741,687,793,735,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00023078_003.jpg 95,661,225,774,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00023089_004.jpg 158,521,327,645,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00023116_005.jpg 641,438,821,597,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00023156_001.jpg 229,230,384,346,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00023162_025.jpg 192,79,456,337,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00023168_000.jpg 215,678,309,801,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00023176_010.jpg 280,505,956,663,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00023176_017.jpg 322,255,857,681,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00023178_002.jpg 561,189,792,627,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00025221_001.jpg 538,582,882,903,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00025228_005.jpg 591,458,886,699,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00025228_007.jpg 119,471,260,772,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00025252_032.jpg 756,681,957,924,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00025252_053.jpg 14,640,351,801,1 650,639,795,902,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00025252_054.jpg 659,720,803,945,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00025270_000.jpg 268,521,368,588,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00025368_014.jpg 294,684,411,769,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00025368_018.jpg 151,122,470,394,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00025368_033.jpg 759,279,957,473,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00025529_018.jpg 724,167,909,771,1 703,389,813,517,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00025662_006.jpg 827,639,878,696,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00025686_000.jpg 596,670,928,775,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00025707_015.jpg 711,537,804,618,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00025732_004.jpg 218,390,756,806,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00025747_000.jpg 335,371,830,739,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00025769_001.jpg 701,572,805,636,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00025787_027.jpg 604,99,981,836,1 218,290,439,741,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00025787_039.jpg 86,98,269,668,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00025787_050.jpg 611,180,666,431,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00025962_000.jpg 533,305,781,515,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00025969_000.jpg 364,284,802,665,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00026087_000.jpg 338,462,756,856,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00026098_003.jpg 150,629,377,841,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00026136_002.jpg 550,555,829,664,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00026194_010.jpg 312,107,464,256,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00026196_001.jpg 393,490,476,571,6 315,584,455,746,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00026221_001.jpg 199,728,302,844,7 137,150,457,656,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00026338_003.jpg 352,345,791,660,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00026392_005.jpg 563,110,880,366,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00026538_012.jpg 631,417,815,613,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00026538_034.jpg 501,488,688,710,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00026555_001.jpg 727,378,870,587,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00026586_009.jpg 196,186,366,316,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00026695_000.jpg 341,197,459,329,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00026753_008.jpg 598,106,901,787,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00026769_010.jpg 792,417,847,470,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00026810_001.jpg 766,708,885,763,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00026848_007.jpg 201,695,392,871,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00026865_003.jpg 623,476,817,645,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00026886_002.jpg 224,197,459,874,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00026889_000.jpg 237,371,830,825,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00026911_000.jpg 555,235,762,548,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00026911_005.jpg 347,307,433,403,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00026920_000.jpg 343,446,464,499,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00027028_017.jpg 150,521,922,660,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00027093_002.jpg 284,284,472,641,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00027094_003.jpg 769,561,922,712,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00027103_001.jpg 672,236,876,506,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00027113_002.jpg 620,339,869,739,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00027213_044.jpg 570,166,779,978,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00027357_014.jpg 62,105,325,750,1 652,457,788,653,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00027441_002.jpg 121,135,339,697,1 209,341,394,629,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00027464_033.jpg 295,229,815,625,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00027470_006.jpg 399,500,494,574,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00027479_013.jpg 773,565,958,634,1 239,106,923,598,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00027556_007.jpg 172,645,310,760,0 70,196,240,432,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00027577_003.jpg 94,211,230,477,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00027631_000.jpg 837,713,947,854,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00027652_003.jpg 75,202,221,717,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00027685_003.jpg 340,323,809,705,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00027758_004.jpg 223,500,462,624,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00027797_000.jpg 430,408,924,730,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00027833_022.jpg 300,305,891,747,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00027837_001.jpg 209,340,424,716,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00027866_002.jpg 144,617,746,832,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00027927_008.jpg 229,175,432,389,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00027927_009.jpg 739,391,791,452,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00027937_004.jpg 166,527,276,629,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00028012_001.jpg 560,463,886,662,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00028027_000.jpg 575,247,693,391,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00028173_016.jpg 564,500,677,638,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00028208_005.jpg 272,295,969,705,3 279,317,963,695,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00028265_007.jpg 799,606,884,706,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00028285_014.jpg 636,396,870,756,3 660,456,870,789,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00028330_003.jpg 209,439,355,634,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00028383_002.jpg 779,771,866,828,1 164,167,420,701,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00028452_001.jpg 629,410,885,558,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00028454_016.jpg 120,503,358,779,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00028509_007.jpg 49,339,257,902,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00028509_026.jpg 310,400,816,743,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00028518_012.jpg 219,408,774,750,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00028518_021.jpg 184,678,370,784,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00028607_000.jpg 404,302,901,745,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00028625_000.jpg 338,450,458,547,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00028628_008.jpg 606,98,818,421,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00028628_015.jpg 168,153,341,563,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00028628_020.jpg 626,339,730,423,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00028640_003.jpg 569,516,745,681,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00028640_008.jpg 763,543,897,810,1 249,413,446,626,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00028698_001.jpg 850,404,911,573,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00028774_047.jpg 53,488,237,797,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00028861_009.jpg 581,47,873,347,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00028873_009.jpg 333,281,728,638,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00028876_027.jpg 537,113,769,256,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00028876_035.jpg 190,341,255,413,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00028876_060.jpg 763,389,838,475,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00028924_009.jpg 730,225,854,485,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00028974_016.jpg 769,581,934,778,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00029039_020.jpg 162,117,832,672,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00029088_023.jpg 304,294,451,417,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00029105_015.jpg 228,428,348,550,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00029200_006.jpg 132,508,288,623,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00029259_027.jpg 787,386,900,678,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00029404_004.jpg 553,385,766,665,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00029431_000.jpg 201,390,426,862,3 189,440,407,851,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00029464_006.jpg 91,284,263,478,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00029464_015.jpg 719,611,910,662,1 198,352,814,676,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00029469_007.jpg 844,524,1005,718,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00029469_009.jpg 469,465,844,839,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00029469_011.jpg 724,430,897,882,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00029502_006.jpg 221,589,472,768,0 148,452,405,846,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00029532_005.jpg 128,98,412,560,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00029532_014.jpg 301,707,564,927,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00029579_005.jpg 104,524,131,588,1 609,189,683,260,6
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00029579_014.jpg 101,520,138,644,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00029588_004.jpg 41,198,306,763,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00029617_006.jpg 615,591,832,758,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00029631_006.jpg 119,509,290,614,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00029647_002.jpg 335,406,830,793,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00029807_003.jpg 164,82,521,384,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00029808_003.jpg 321,410,768,805,2 610,339,807,642,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00029817_009.jpg 221,317,376,534,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00029843_001.jpg 256,448,386,559,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00029861_013.jpg 193,185,802,687,3 201,160,806,690,4
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00029894_000.jpg 715,508,944,726,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00029909_003.jpg 167,168,401,258,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00029940_007.jpg 212,382,356,565,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00030039_008.jpg 26,120,290,747,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00030106_008.jpg 225,517,455,786,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00030111_007.jpg 593,97,750,348,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00030162_026.jpg 539,268,634,342,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00030162_029.jpg 327,381,395,455,7 621,167,825,327,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00030206_013.jpg 312,339,778,772,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00030260_004.jpg 368,550,425,772,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00030260_005.jpg 280,648,386,752,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00030279_000.jpg 289,420,836,877,2
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00030394_001.jpg 623,182,689,240,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00030408_013.jpg 718,604,837,748,1 144,722,364,873,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00030413_003.jpg 255,237,344,314,7
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00030573_002.jpg 603,336,759,520,3
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00030606_006.jpg 550,31,786,192,5
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00030634_000.jpg 141,611,459,708,1
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00030635_001.jpg 576,490,817,712,0
+C:\Users\NilEra\PycharmProjects\DeepLearning\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/00030636_004.jpg 612,459,836,593,3 611,440,770,591,0
