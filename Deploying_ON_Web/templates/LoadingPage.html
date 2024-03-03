@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>肺部疾病诊断系统</title>
+    <link rel="shortcut icon" href="../static/images/肺.png">
+    <script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
+    <script type="text/javascript" src="http://libs.baidu.com/jquery/1.8.3/jquery.js"></script>
+    <script type="text/javascript" src="http://libs.baidu.com/jquery/1.8.3/jquery.min.js"></script>
+    <script type="text/javascript" src="../static/LoadingPage.js"></script>
+    <link rel="stylesheet" href="../static/LoadingPage.css">
+</head>
+
+<body>
+    <div class="block">
+        <span class="num">100</span>
+    </div>
+    <header></header>
+    <h1>
+        <div class="black"></div>
+        <div class="white"></div>
+    </h1>
+    <template id="part1">
+        <div class="btn">
+            <a class="part2" onClick="window.open('../static/index.html');">
+                Start Predict
+                <div class="wave"></div>
+            </a>
+            <div class="part3" :style="{ 'width': `${value}%` }">
+            </div>
+        </div>
+    </template>
+    <div id="app">
+        <part5 :value="value" @change="change"></part5>
+    </div>
+    <span>L o a d i n g . . . . .</span>
+    <footer></footer>
+    <div class="health">
+        <div class="thinker"></div>
+    </div>
+<script>
+const block = document.querySelectorAll('.block')
+window.addEventListener('load', function () {
+    block.forEach(item => {
+        let numElement = item.querySelector('.num')
+        let num = parseInt(numElement.innerText)
+        let count = 0;
+        let time = 2000 / num;
+        setTimeout(() => {
+        setInterval(() => {
+            if (count == num) {
+                clearInterval()
+            } else {
+                count += 1;
+                 numElement.innerText = count + '%';
+            }
+        }, 52)
+        }, 1650);
+    })
+})
+</script>
+</body>
+
+</html>
